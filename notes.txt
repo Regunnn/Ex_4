@@ -1,6 +1,9 @@
 Line 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 Line 2
+=======
+>>>>>>> 2b117a2be4b2a11a2d76768831e0aa505b224907
 Line 3
 =======
 >>>>>>> parent of c2d3b64 (Add line 2 to notes.txt)
