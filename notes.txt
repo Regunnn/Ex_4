@@ -1,3 +1,6 @@
 Line 1
+<<<<<<< HEAD
 Line 2
 Line 3
+=======
+>>>>>>> parent of c2d3b64 (Add line 2 to notes.txt)
